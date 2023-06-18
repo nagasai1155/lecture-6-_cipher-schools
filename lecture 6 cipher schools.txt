@@ -13,9 +13,7 @@ three conditions for an instantiation process:
 2.create an object using new keyword.
 3.assingning referencing of the created object to the variable.
 
-There are two ways to create instances:
-->Using the new Keyword
-->Using Static Factory Method
+
 
 Heap and Stack Memory----------------
 
